@@ -2,10 +2,10 @@
 
 ## Table Content
 
-**Project Brief
-**The Situation
-**The Assignment
-**Objectives
+Project Brief
+The Situation
+The Assignment
+Objectives
 
 ## Project Brief
 
